@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# GERITCH-Key-to-Fine-Dining
+Project Description
+                                                                  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The GERITCH-Key-to-Fine-Dining landing page is a visually stunning and interactive website built using React.js, designed to showcase the exquisite offerings of a restaurant by the same name. This landing page serves as a digital gateway to the world of fine dining, enticing visitors with an array of features and functionalities that capture the essence of the restaurant.
+<br>
+<br>
+<img src="https://github.com/Khushi260/GERITCH-Key-to-Fine-Dining/blob/main/Screenshot%202023-06-22%20202423.png">
 
 ## Available Scripts
 
